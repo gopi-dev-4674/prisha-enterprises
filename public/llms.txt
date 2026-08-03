@@ -1,0 +1,19 @@
+# Prisha Enterprises
+> Mobile repair shop and accessories store in Horamavu, Bengaluru. Rated 4.8/5 on Google with 38 reviews.
+
+## Services
+- Screen Replacement (1–2 hours)
+- Tempered Glass, Gorilla Glass, Bulletproof Screen Guard
+- Matte Finish Protectors, Mobile Skins, Accessories
+- Free Home Delivery
+
+## Contact
+- Phone: +91 99004 42171
+- Address: 27, Hoysala Nagar, Horamavu, Bengaluru 560016
+- Hours: Mon–Fri 9AM–9PM, Sat 10AM–10PM, Sun Closed
+
+## Optional
+- /services.html: Full list of services
+- /about.html: Business story and values
+- /reviews.html: Customer testimonials
+- /contact.html: Location and directions

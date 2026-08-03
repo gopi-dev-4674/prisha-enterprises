@@ -1,0 +1,6 @@
+{
+  "name": "Prisha Enterprises",
+  "description": "Mobile Repair Shop & Accessories Store in Horamavu, Bengaluru. 4.8★ Google Rated.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
