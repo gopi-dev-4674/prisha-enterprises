@@ -199,10 +199,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // ==========================================================================
   const modalHTML = `
     <!-- Floating AI FAB Button -->
-    <button id="aiFabBtn" class="ai-fab" aria-label="Open AI Diagnostics & Assistant">
-      <span class="ai-fab-dot"></span>
-      <span>✨ AI Diagnostics & Chat</span>
-    </button>
+
 
     <!-- AI Modal Overlay & Panel -->
     <div id="aiModalOverlay" class="ai-modal-overlay"></div>
@@ -227,22 +224,19 @@ document.addEventListener('DOMContentLoaded', () => {
       <div class="ai-modal-body">
         <!-- TAB 1: AI Chatbot (gemini-3.5-flash) -->
         <div id="tabChat" class="ai-tab-content" style="display: flex; flex-direction: column; height: 100%;">
-          <div style="font-size: 0.8rem; color: var(--text-muted); margin-bottom: 12px; display: flex; align-items: center; justify-content: space-between;">
-            <span>Instant answers on repairs, screen guards, delivery & pricing</span>
-            <span style="color: var(--accent-green); font-weight: 600;">Gemini 3.5 Flash</span>
-          </div>
+
 
           <div id="chatThread" class="chat-thread">
             <div class="chat-bubble assistant">
-              👋 Hi! I'm your <strong>Prisha Enterprises AI Assistant</strong> in Horamavu, Bengaluru.<br/><br/>
+              👋 Hi! I'm your <strong>Prisha Enterprises AI Assistant</strong> in Rammurthy Nagar, Bengaluru.<br/><br/>
               How can I help you today? Ask me about screen repairs, gorilla glass pricing, store hours, or booking free doorstep pick-up!
             </div>
           </div>
 
           <div class="quick-prompts">
             <button class="quick-chip" data-prompt="How much is screen replacement for iPhone 13?">📱 Screen Repair Cost</button>
-            <button class="quick-chip" data-prompt="What are your shop opening hours in Horamavu?">🕒 Shop Hours</button>
-            <button class="quick-chip" data-prompt="Do you provide free doorstep delivery in Hoysala Nagar?">🚚 Free Pick & Delivery</button>
+            <button class="quick-chip" data-prompt="What are your shop opening hours in Rammurthy Nagar?">🕒 Shop Hours</button>
+            <button class="quick-chip" data-prompt="Do you provide free doorstep delivery in Rammurthy Nagar?">🚚 Free Pick & Delivery</button>
             <button class="quick-chip" data-prompt="What's the difference between gorilla glass & bulletproof guard?">🛡️ Screen Guard Types</button>
           </div>
 
@@ -739,7 +733,7 @@ function initRepairCanvas() {
       vx: (Math.random() - 0.5) * 1.2,
       vy: (Math.random() - 0.5) * 1.2,
       size: Math.random() * 2 + 1,
-      color: Math.random() > 0.5 ? '#22c55e' : '#38bdf8'
+      color: Math.random() > 0.5 ? '#ec4899' : '#38bdf8'
     });
   }
 
